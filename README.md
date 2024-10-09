@@ -1,4 +1,4 @@
-# Boston Employee Data
+# Boston Data
 
 This project contains employee details for individuals working in Boston, formatted in JSON. It provides a simple dataset for practicing data handling and management.
 
