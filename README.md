@@ -14,9 +14,3 @@ The **Boston Employee Data** JSON file includes information about employees, suc
 - **Salary**: Annual salary
 - **Date of Joining**: When the employee started working
 - **Email**: Work email address
-
-## Usage
-
-1. Clone this repository or download the `boston_data.json` file.
-2. Load the JSON file in your application to access the employee details.
-
